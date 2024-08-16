@@ -62,7 +62,9 @@ MyStepCounter is a mobile application designed to track and display step counts 
 ### ScreenShot
 
 <img width="351" alt="צילום מסך 2024-08-16 ב-17 26 40" src="https://github.com/user-attachments/assets/5e5e5c26-8b73-4ba5-87bc-f4d8f26823b2">
+
 <img width="350" alt="צילום מסך 2024-08-16 ב-17 27 21" src="https://github.com/user-attachments/assets/36e32661-e95a-4cff-9698-992032082f32">
+
 ![1723817921312](https://github.com/user-attachments/assets/efeed976-85b6-4f76-a00e-e2649eb02262)
 
 
