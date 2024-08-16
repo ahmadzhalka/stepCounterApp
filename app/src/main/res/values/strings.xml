@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyStepCounter</string>
+    <string name="allow_activity_recognition">Allow activity recognition</string>
+    <string name="activity_recognition_rationale">This permission is required to detect and count the steps you take.</string>
+    <string name="revoke_permission_rationale">You can revoke this permission in system settings, but keep in mind the app will stop working</string>
+    <string name="data_consent">All your data is stored locally on your device and will not be shared with anyone</string>
+</resources>
